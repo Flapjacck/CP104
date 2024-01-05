@@ -1,0 +1,25 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\plkel\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\Kell6733_a05\com.python.pydev.analysis\v2_indexcache
+functions|1698635486367844800|C:\Users\plkel\Documents\CP104\Kell6733_a05\src\functions.py
+t01|1697850783941175100|C:\Users\plkel\Documents\CP104\Kell6733_a05\src\t01.py
+t03|1697851623233121300|C:\Users\plkel\Documents\CP104\Kell6733_a05\src\t03.py
+t02|1697851077999409100|C:\Users\plkel\Documents\CP104\Kell6733_a05\src\t02.py
+t05|1698635520190917100|C:\Users\plkel\Documents\CP104\Kell6733_a05\src\t05.py
+t04|1698634331543917700|C:\Users\plkel\Documents\CP104\Kell6733_a05\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=functions
+1=C:\Users\plkel\Documents\CP104\Kell6733_a05\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+4
+arr|1|arrow_up!1^54#5*18@
+cal|2|calc_factorial!1^14#5*18@calories_treadmill!1^32#5*18@
+mul|1|multiplication_table!1^76#5*18@
+ran|1|range_addition!1^104#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

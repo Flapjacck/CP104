@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\plkel\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\Kell6733_l08\com.python.pydev.analysis\v2_indexcache
+functions|1702571314682955800|C:\Users\plkel\Documents\CP104\Kell6733_l08\src\functions.py
+t13|1699489636705969900|C:\Users\plkel\Documents\CP104\Kell6733_l08\src\t13.py
+t04|1699487154204059900|C:\Users\plkel\Documents\CP104\Kell6733_l08\src\t04.py
+t15|1699491555341074400|C:\Users\plkel\Documents\CP104\Kell6733_l08\src\t15.py
+t07|1699488616926003800|C:\Users\plkel\Documents\CP104\Kell6733_l08\src\t07.py
+t09|1699489289982161500|C:\Users\plkel\Documents\CP104\Kell6733_l08\src\t09.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=C:\Users\plkel\Documents\CP104\Kell6733_l08\src\functions.py
+2=functions
+-- END DICTIONARY
+-- START TREE 1
+5
+gen|1|generate_integer_list!1^15#5*18@
+lis|1|list_categorize!1^39#5*18@
+man|1|many_search!1^74#5*18@
+sym|1|symmetric_difference!1^123#5*18@
+uni|1|union!1^97#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\plkel\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\Kell6733_l05\com.python.pydev.analysis\v2_indexcache
+functions|1697040666611201400|C:\Users\plkel\Documents\CP104\Kell6733_l05\src\functions.py
+t11|1697039894913721700|C:\Users\plkel\Documents\CP104\Kell6733_l05\src\t11.py
+t14|1697040592696757800|C:\Users\plkel\Documents\CP104\Kell6733_l05\src\t14.py
+t02|1696518546983956800|C:\Users\plkel\Documents\CP104\Kell6733_l05\src\t02.py
+t05|1697038365519944500|C:\Users\plkel\Documents\CP104\Kell6733_l05\src\t05.py
+t09|1697039116874488800|C:\Users\plkel\Documents\CP104\Kell6733_l05\src\t09.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=functions
+1=C:\Users\plkel\Documents\CP104\Kell6733_l05\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+5
+get|1|get_weight!1^13#5*18@
+is_|1|is_leap!1^44#5*18@
+qua|1|quadrant!1^100#5*18@
+tic|1|ticket!1^132#5*18@
+win|1|wind_speed!1^72#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

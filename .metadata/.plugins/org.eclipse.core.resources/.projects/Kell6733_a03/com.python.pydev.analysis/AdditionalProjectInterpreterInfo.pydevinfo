@@ -1,0 +1,28 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\plkel\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\Kell6733_a03\com.python.pydev.analysis\v2_indexcache
+functions|1695345114134723300|C:\Users\plkel\Documents\CP104\Kell6733_a03\src\functions.py
+t01|1695342954343314200|C:\Users\plkel\Documents\CP104\Kell6733_a03\src\t01.py
+t03|1695343944296941400|C:\Users\plkel\Documents\CP104\Kell6733_a03\src\t03.py
+t02|1695343931359385300|C:\Users\plkel\Documents\CP104\Kell6733_a03\src\t02.py
+t05|1695345092123282700|C:\Users\plkel\Documents\CP104\Kell6733_a03\src\t05.py
+t04|1695344221482560200|C:\Users\plkel\Documents\CP104\Kell6733_a03\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=functions
+1=C:\Users\plkel\Documents\CP104\Kell6733_a03\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+7
+ext|1|extract_date!1^56#5*18@
+fal|1|falling_distance!1^103#5*18@
+foo|1|footage_to_acres!1^16#5*18@
+gra|1|GRAVITY_FORCE!1^13#1*19@
+law|1|lawn_mow_time!1^34#5*18@
+mul|1|multiply_fractions!1^78#5*18@
+sqr|1|SQR_FEET_PER_ACRE!1^12#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,23 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\plkel\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\Kell6733_l01\com.python.pydev.analysis\v2_indexcache
+t04|1694207565274885500|C:\Users\plkel\Documents\CP104\Kell6733_l01\src\t04.py
+t06|1694207565057039700|C:\Users\plkel\Documents\CP104\Kell6733_l01\src\t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+3=C:\Users\plkel\Documents\CP104\Kell6733_l01\src\t04.py
+1=C:\Users\plkel\Documents\CP104\Kell6733_l01\src\t06.py
+4=t04
+2=t06
+-- END DICTIONARY
+-- START TREE 1
+4
+bon|1|bonus!1^13#1*19@
+nam|1|name!3^11#1*35@
+pay|1|pay!1^14#1*19@
+sal|1|salary!1^12#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

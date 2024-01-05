@@ -1,0 +1,36 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\plkel\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\Kell6733_a09\com.python.pydev.analysis\v2_indexcache
+functions|1702067244390715100|C:\Users\plkel\Documents\CP104\Kell6733_a09\src\functions.py
+t01|1701030064314571000|C:\Users\plkel\Documents\CP104\Kell6733_a09\src\t01.py
+t03|1701031413117462000|C:\Users\plkel\Documents\CP104\Kell6733_a09\src\t03.py
+t02|1701030405634623000|C:\Users\plkel\Documents\CP104\Kell6733_a09\src\t02.py
+t05|1701371382603864200|C:\Users\plkel\Documents\CP104\Kell6733_a09\src\t05.py
+t04|1701371375592176800|C:\Users\plkel\Documents\CP104\Kell6733_a09\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+3=C:\Users\plkel\Documents\CP104\Kell6733_a09\src\t03.py
+6=functions
+12=t01
+4=t03
+10=t02
+8=t05
+2=t04
+5=C:\Users\plkel\Documents\CP104\Kell6733_a09\src\functions.py
+7=C:\Users\plkel\Documents\CP104\Kell6733_a09\src\t05.py
+1=C:\Users\plkel\Documents\CP104\Kell6733_a09\src\t04.py
+9=C:\Users\plkel\Documents\CP104\Kell6733_a09\src\t02.py
+11=C:\Users\plkel\Documents\CP104\Kell6733_a09\src\t01.py
+-- END DICTIONARY
+-- START TREE 1
+5
+fh_|2|fh_read!1^14#1*19@fh_write!1^15#1*19@
+fil|6|file_handle!3^14#1*35@file_statistics!5^62#5*50@file_top!5^14#5*50@file_handle!7^14#1*67@file_handle!9^14#1*83@file_handle!11^14#1*99@
+lin|1|line_numbering!5^98#5*50@
+rea|1|read_integers!5^36#5*50@
+stu|1|student_stats!5^121#5*50@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

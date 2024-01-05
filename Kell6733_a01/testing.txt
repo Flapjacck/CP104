@@ -1,0 +1,53 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Spencer Kelly
+ID:         169066733
+Email:   Kell6733@mylaurier.ca
+Version: 2023-09-14
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+What is a "program"?
+A program is a sequence of instructions that specifies how to perform a computation. The details look different in different languages, but a few basic instructions appear in just about every language:
+input: Get data from the keyboard, a file, or some other device.
+output: Display data on the screen or send data to a file or other device.
+math: Perform basic mathematical operations like addition and multiplication.
+conditional execution: Check for certain conditions and execute the appropriate code.
+repetition: Perform some action repeatedly, usually with some variation.
+Believe it or not, that's pretty much all there is to it.
+"You have enemies? Good. That means you've stood up for something, sometime in your life." Winston Churchill
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+What is your age? 22
+What is your favourite band? The Beatles
+I am 22 years old and The Beatles is my favourite band.
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Length in miles: 35
+Length in km: 56.35
+
+-------------------------------------------------------
+t04 
+-------------------------------------------------------
+Cost of 1 dosa: $5.7
+Number of dosa: 500
+Total cost of 500 dosas: $2850.0
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Principal: $7834
+Interest (%): 7.8
+Number of years: 9
+Number of times interest compounded per year: 7
+Balance: $15746.071505310827
+
+-------------------------------------------------------

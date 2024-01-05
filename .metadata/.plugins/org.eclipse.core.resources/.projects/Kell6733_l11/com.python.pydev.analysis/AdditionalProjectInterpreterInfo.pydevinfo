@@ -1,0 +1,27 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\plkel\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\Kell6733_l11\com.python.pydev.analysis\v2_indexcache
+functions|1702341055482861900|C:\Users\plkel\Documents\CP104\Kell6733_l11\src\functions.py
+t01|1701373598952823700|C:\Users\plkel\Documents\CP104\Kell6733_l11\src\t01.py
+t03|1701374565628767400|C:\Users\plkel\Documents\CP104\Kell6733_l11\src\t03.py
+t13|1701376651283772400|C:\Users\plkel\Documents\CP104\Kell6733_l11\src\t13.py
+t06|1701375509748669800|C:\Users\plkel\Documents\CP104\Kell6733_l11\src\t06.py
+t08|1701376808390742800|C:\Users\plkel\Documents\CP104\Kell6733_l11\src\t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+3=C:\Users\plkel\Documents\CP104\Kell6733_l11\src\t03.py
+2=functions
+4=t03
+1=C:\Users\plkel\Documents\CP104\Kell6733_l11\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+4
+fin|1|find_less!1^115#5*18@
+gen|1|generate_matrix_num!1^16#5*18@
+mat|3|matrix_scalar_multiply!1^143#5*18@matrix_stats!1^77#5*18@matrix!3^14#1*35@
+pri|1|print_matrix_num!1^44#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

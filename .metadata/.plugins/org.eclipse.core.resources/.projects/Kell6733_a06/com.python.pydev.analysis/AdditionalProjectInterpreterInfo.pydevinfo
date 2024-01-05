@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\plkel\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\Kell6733_a06\com.python.pydev.analysis\v2_indexcache
+functions|1699486809427351600|C:\Users\plkel\Documents\CP104\Kell6733_a06\src\functions.py
+t01|1699289195270709400|C:\Users\plkel\Documents\CP104\Kell6733_a06\src\t01.py
+t03|1699484672011971400|C:\Users\plkel\Documents\CP104\Kell6733_a06\src\t03.py
+t02|1699290264167668700|C:\Users\plkel\Documents\CP104\Kell6733_a06\src\t02.py
+t05|1699486747209335600|C:\Users\plkel\Documents\CP104\Kell6733_a06\src\t05.py
+t04|1699485081293983000|C:\Users\plkel\Documents\CP104\Kell6733_a06\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=functions
+1=C:\Users\plkel\Documents\CP104\Kell6733_a06\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+5
+cou|1|count_of_digits!1^107#5*18@
+det|1|detect_prime!1^49#5*18@
+fac|1|factor_summation!1^130#5*18@
+int|1|interest_table!1^71#5*18@
+tot|1|total_wins!1^14#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

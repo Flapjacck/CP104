@@ -1,0 +1,67 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\plkel\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\kell6733_e\com.python.pydev.analysis\v2_indexcache
+t01_functions|1702575712138992600|C:\Users\plkel\Documents\CP104\kell6733_e\src\t01_functions.py
+t07_functions|1702578402739314500|C:\Users\plkel\Documents\CP104\kell6733_e\src\t07_functions.py
+t02_functions|1702574853107775000|C:\Users\plkel\Documents\CP104\kell6733_e\src\t02_functions.py
+t03_functions|1702575011846295000|C:\Users\plkel\Documents\CP104\kell6733_e\src\t03_functions.py
+t05_functions|1702579267598551000|C:\Users\plkel\Documents\CP104\kell6733_e\src\t05_functions.py
+t01|1702573911920044800|C:\Users\plkel\Documents\CP104\kell6733_e\src\t01.py
+t03|1701368508000000000|C:\Users\plkel\Documents\CP104\kell6733_e\src\t03.py
+t04_functions|1702575133392815400|C:\Users\plkel\Documents\CP104\kell6733_e\src\t04_functions.py
+t02|1701368508000000000|C:\Users\plkel\Documents\CP104\kell6733_e\src\t02.py
+t05|1701368508000000000|C:\Users\plkel\Documents\CP104\kell6733_e\src\t05.py
+t04|1702575205267423100|C:\Users\plkel\Documents\CP104\kell6733_e\src\t04.py
+t07|1702578168842558600|C:\Users\plkel\Documents\CP104\kell6733_e\src\t07.py
+t06|1702504084000000000|C:\Users\plkel\Documents\CP104\kell6733_e\src\t06.py
+t06_functions|1702575731628023100|C:\Users\plkel\Documents\CP104\kell6733_e\src\t06_functions.py
+-- END DISKCACHE
+-- START DICTIONARY
+26
+3=C:\Users\plkel\Documents\CP104\kell6733_e\src\t04.py
+17=C:\Users\plkel\Documents\CP104\kell6733_e\src\t05_functions.py
+25=C:\Users\plkel\Documents\CP104\kell6733_e\src\t03_functions.py
+13=C:\Users\plkel\Documents\CP104\kell6733_e\src\t01_functions.py
+9=C:\Users\plkel\Documents\CP104\kell6733_e\src\t06.py
+14=t01_functions
+19=C:\Users\plkel\Documents\CP104\kell6733_e\src\t07_functions.py
+23=C:\Users\plkel\Documents\CP104\kell6733_e\src\t02_functions.py
+21=C:\Users\plkel\Documents\CP104\kell6733_e\src\t06_functions.py
+26=t03_functions
+12=t04_functions
+22=t06_functions
+5=C:\Users\plkel\Documents\CP104\kell6733_e\src\t01.py
+15=C:\Users\plkel\Documents\CP104\kell6733_e\src\t07.py
+7=C:\Users\plkel\Documents\CP104\kell6733_e\src\t05.py
+1=C:\Users\plkel\Documents\CP104\kell6733_e\src\t03.py
+20=t07_functions
+24=t02_functions
+18=t05_functions
+6=t01
+2=t03
+8=t05
+4=t04
+16=t07
+10=t06
+11=C:\Users\plkel\Documents\CP104\kell6733_e\src\t04_functions.py
+-- END DICTIONARY
+-- START TREE 1
+14
+alt|1|altered!1^17#5*19@
+cas|5|CASES!3^14#1*35@CASES!1^14#1*19@CASES!5^19#1*51@CASES!7^18#1*67@CASES!9^20#1*83@
+dra|1|draw_x!11^13#5*98@
+eve|1|even_avg!13^13#5*114@
+f_i|2|f_in!15^16#1*131@f_in!7^21#5*67@
+f_l|1|f_long!15^18#1*131@
+f_s|1|f_short!15^17#1*131@
+fil|1|fill_matrix!17^13#5*146@
+lin|2|line_lengths!19^13#5*162@lines!15^19#1*131@
+mat|1|matrix!7^22#5*67@
+mul|1|multiply_list!21^13#5*178@
+rai|1|rainfall!23^16#5*194@
+upp|1|upper_vowels!25^13#5*210@
+val|1|values!9^24#5*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
