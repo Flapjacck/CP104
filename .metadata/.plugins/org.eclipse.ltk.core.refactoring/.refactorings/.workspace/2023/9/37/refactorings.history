@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Kell6733_l1&apos; to &apos;Kell6733_l01&apos;" description="Rename resource &apos;Kell6733_l1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Kell6733_l1" name="Kell6733_l01" stamp="1694538774775" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Kell6733_a02&apos; to &apos;Kell6733_a01&apos;" description="Rename resource &apos;Kell6733_a02&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Kell6733_a02" name="Kell6733_a01" stamp="1694720465941" updateReferences="true"/>
-</session>
